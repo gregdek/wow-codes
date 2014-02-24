@@ -11,7 +11,7 @@
 *             The answer is hard-coded!
 *           * No input checking. At all. Why bother?
 *             If you enter something out of range, 
-*             you're a bad player. If you enter 
+*             you are a bad player. If you enter 
 *             text, the program explodes!
 
       PROGRAM GUESSMYNUMBER
